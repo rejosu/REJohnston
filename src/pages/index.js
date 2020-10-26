@@ -17,6 +17,7 @@ class IndexPage extends React.Component {
         />
         <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" />
         <h1>
+          Test
           Hey people{" "}
           <span role="img" aria-label="wave emoji">
             👋
