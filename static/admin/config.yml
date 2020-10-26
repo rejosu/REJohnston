@@ -1,5 +1,5 @@
 backend:
-  name: rejosu
+  name: github
   repo: rejosu/REJohnston
 
 media_folder: content/assets
