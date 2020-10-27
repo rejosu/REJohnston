@@ -22,9 +22,8 @@ class IndexPage extends React.Component {
             👋
           </span>
         </h1>
-        <p style="text-align:center">This is a page for Russ Johnston's thoughts, musings, notes, and et cetera...</p>
-        <p style="text-align:center">
-          It isn't anything special in particular, but it is a fun way to engage with the world. 
+        <p>This is a page for Russ Johnston's thoughts, musings, notes, and et cetera...</p>
+        <p>It isn't anything special, just a fun way to engage with the world. 
         </p>
         <c>
         <Link to="/blog/">
