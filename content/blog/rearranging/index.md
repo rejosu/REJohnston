@@ -34,7 +34,7 @@ Rather than continue to political digression, I should call out that I don't thi
 following the election. (And I won't get into the speculative rabbit hole of widespread social unrest.)
 
 > We suffer far more in imagination than in reality.
-> - Seneca
+> -Seneca
 
 To return to purpose the purpose of this *specific* blog: an experimental zone to play with web development.
 
