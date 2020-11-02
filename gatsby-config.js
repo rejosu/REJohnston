@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Gatsby Starter Personal Blog`,
-    author: `Gatsby`,
-    description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `RE:Johnston Blog`,
+    author: `Russell (Edward) Johnston`,
+    description: `Russ' personal blog for musings and attempts to organize thinking.`,
+    siteUrl: `https://rejosu.netlify.app/`,
     social: {
-      twitter: `gatsbyjs`,
+      twitter: `Russ_Johnston`,
     },
   },
   plugins: [
@@ -37,7 +37,7 @@ module.exports = {
                 frontmatter {
                   title
                   description
-                  date(formatString: "MMMM DD, YYYY")
+                  date(formatString: "YYYY-MMMM-DD")
                 }
               }
             }
@@ -121,7 +121,7 @@ module.exports = {
         theme_color: `#663399`,
         display: `minimal-ui`,
         // edit below
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/Russ.jpg`,
       },
     },
     {
