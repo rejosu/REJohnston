@@ -1,6 +1,6 @@
 ---
 title: How to Re-assemble a Productive Life
-date: "2020-11-02T15:23:25.121Z-5"
+date: "2020-11-02T15:23:25.121Z"
 ---
 
 This is my attempt to post a new entry on a blog of my own creation.
