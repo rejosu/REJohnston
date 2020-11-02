@@ -1,4 +1,3 @@
-
 ---
 title: How to Re-assemble a Productive Life
 date: "2020-11-02T15:23:25.121Z"
