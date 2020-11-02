@@ -1,3 +1,4 @@
+
 ---
 title: How to Re-assemble a Productive Life
 date: "2020-11-02T15:23:25.121Z"
@@ -48,7 +49,7 @@ I will expand upon each of the following categories in time, but The areas I can
 1. Family Orientation
 1. Physical Fitness
 1. Mental Fitness
-1. Fiscal / financial Fitness
+1. Fiscal / Financial Fitness
 1. Meta-process tracking and feedback integration
 
 This is will be subject to change and revision, but I believe it captures the majority of areas where I seek to improve myself.
