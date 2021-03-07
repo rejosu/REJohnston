@@ -18,13 +18,14 @@ class IndexPage extends React.Component {
         
         <h1>
           Hey people{" "}
+          <!--
           <span role="img" aria-label="wave emoji">
             👋
           </span>
+          -->
         </h1>
         <p>This is a page for Russ Johnston's thoughts, musings, notes, and et cetera...</p>
-        <p>It isn't anything special, just a fun way to engage with the world. 
-        </p>
+        <p>It isn't anything special, just a fun way to engage with the world. </p>
         <c>
         <Link to="/blog/">
           <Button marginTop="35px">Onward</Button>
